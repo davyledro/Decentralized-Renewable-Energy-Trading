@@ -13,3 +13,7 @@ S
 #contracts/peer-to-peer-trading.clar,2/3/230fe5667177351ab197ccd5e0bb285f27ef003f
 R
 "tests/peer-to-peer-trading.test.ts,4/2/42b949d620f72990e06a51aab32e2d17c8090b61
+T
+$contracts/producer-registration.clar,6/f/6f7a54975fff7b040fee8c08594fe09c3a9c1b9f
+S
+#tests/producer-registration.test.ts,3/7/3761b2c17fc88628cb92d5b9607528c4505209de
